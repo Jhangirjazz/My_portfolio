@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Music Web App"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="A dynamic music web application built with HTML, CSS, and JavaScript for the frontend, and powered by PHP and MySQL on the backend. Users can browse, stream, and download music tracks seamlessly. The admin panel allows authorized users to add, update, or remove songs and manage metadata. All music data is securely stored in a MySQL database, ensuring fast access and reliable performance. The platform supports user authentication, download tracking, and scalable content management."
               ghLink="https://github.com/Jhangirjazz/Mypro"
               // demoLink="https://chatify-49.web.app/"
             />
