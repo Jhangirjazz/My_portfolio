@@ -1,3 +1,10 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --accent-color: #a020f0; /* or a softer tone */
+}
+
+
 html {
   --section-background-color: linear-gradient(
     to bottom left,
@@ -11,7 +18,8 @@ html {
     rgba(12, 10, 22, 0.863)
   );
 
-  --imp-text-color: #c770f0;
+  /* --imp-text-color: #CD5FF8; */
+  imp-text-color: #fff;
 }
 
 .purple {
@@ -33,7 +41,7 @@ button:focus {
   height: 100%;
   z-index: 999999;
   background-color: #0c0513;
-  background-image: url(./Assets/pre.svg);
+  background-image: url(./Assets/tube-spinner.svg);
   background-repeat: no-repeat;
   background-position: center;
 }
